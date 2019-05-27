@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cfe2576-e7c7-4f3d-9302-7ef5bce317d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript/async-await.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/rest-spread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/destructuring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/promises.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/promises.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,11 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/rest-spread.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="240">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/destructuring.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -113,6 +117,7 @@
         <option value="$PROJECT_DIR$/javascript/index.js" />
         <option value="$PROJECT_DIR$/javascript/async-await.js" />
         <option value="$PROJECT_DIR$/javascript/rest-spread.js" />
+        <option value="$PROJECT_DIR$/javascript/destructuring.js" />
       </list>
     </option>
   </component>
@@ -180,12 +185,12 @@
       <updated>1558649408006</updated>
       <workItem from="1558649413616" duration="19000" />
       <workItem from="1558651247666" duration="7484000" />
-      <workItem from="1558908484990" duration="6209000" />
+      <workItem from="1558908484990" duration="8351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13712000" />
+    <option name="totallyTimeSpent" value="15854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1090" y="0" width="1111" height="1212" extended-state="0" />
@@ -291,8 +296,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/rest-spread.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="240">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/destructuring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
         </state>
       </provider>
     </entry>
