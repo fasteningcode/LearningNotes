@@ -22,9 +22,27 @@ function doStuff(data) {
     })
 }
 
-doStuff(false).then((successMessage) => {
+doStuff(true).then((successMessage) => {
         console.log(successMessage);
     }, (failureMessage) => {
         console.log(failureMessage);
     }
 );
+
+//chaining promises
+doStuff(true).then(
+    () => {
+        console.log("first do stuff recieved");
+        return doStuff(false);
+    }
+).then(
+    ()=>{
+        console.log("Second do stuff recieved");
+    }
+).catch(
+    ()=>{
+        console.log("an error occured");
+    }
+);
+
+
